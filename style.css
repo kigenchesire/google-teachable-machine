@@ -1,0 +1,80 @@
+.highlight {
+  background-color: #ffff00;
+}
+
+.a {
+  background-color: #ffacac;
+}
+
+.b {
+  background-color: #00ff00;
+}
+
+.c {
+  background-color: #8f8fff;
+}
+
+.d {
+  background-color: #ffff00;
+}
+
+.e {
+  background-color: #ffa8ff;
+}
+
+.f {
+  background-color: #00ffff;
+}
+
+.background-noise {
+  background-color: #000000;
+  color: white;
+}
+
+body {
+  background-color: lightblue;
+}
+.voice-recorder {
+  background-color: #7D3C98; /* Adjust the color to match the screenshot */
+  color: white;
+  padding: 20px 0;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.record-btn {
+  background-color: #8E44AD; /* Adjust the color to match the screenshot */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.record-btn:hover {
+  background-color: blue;
+}
+.record-btn{
+  background-color: aquamarine;
+  color: #000;
+}
+#timer{
+  font-size: 3em;
+  font-family: monospace;
+  font-weight: bolder;
+}
+.result-container {
+  margin: auto;
+  width: 50%;
+}
+.alert{
+  width: 50%;
+  margin: auto;
+  margin-top: 10px;
+}
+.label-container {
+  margin: auto;
+  width: 50%;
+}
