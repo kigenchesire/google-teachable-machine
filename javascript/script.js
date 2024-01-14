@@ -1,7 +1,6 @@
 // more documentation available at
 // https://github.com/tensorflow/tfjs-models/tree/master/speech-commands
 
-// the link to your model provided by Teachable Machine export panel
 const URL = "https://teachablemachine.withgoogle.com/models/iSq7acOT3/";
 const resultContainer = document.getElementById("result");
 const startButton = document.getElementById("start-button");
