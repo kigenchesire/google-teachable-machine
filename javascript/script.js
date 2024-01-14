@@ -5,8 +5,8 @@ const URL = "https://teachablemachine.withgoogle.com/models/iSq7acOT3/";
 const resultContainer = document.getElementById("result");
 const startButton = document.getElementById("start-button");
 
-let intervalId; // To keep track of the timer interval
-const timerElement = document.getElementById("timer"); // Assuming you have a timer element with id="timer"
+let intervalId; 
+const timerElement = document.getElementById("timer"); 
 
 function startTimer() {
   let seconds = 0;
